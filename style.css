@@ -5,7 +5,7 @@
      left: 0;
     top: 0; 
     display: block;
-    display: block;
+    overflow: hidden;
 }
 .begin{
     position: relative;
